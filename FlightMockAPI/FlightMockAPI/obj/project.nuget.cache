@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "OFH+NKbnvl1yHwo9ULeN7gmJwv8yHQk9PLwHXaW0kQKMRqdWK+2VfRVpdLHf2bzIxZlyIowS4xzlSJOVeyt8cA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aras\\source\\repos\\FlightMockAPI\\FlightMockAPI\\FlightMockAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aras\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Aras\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Aras\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Aras\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Aras\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Aras\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

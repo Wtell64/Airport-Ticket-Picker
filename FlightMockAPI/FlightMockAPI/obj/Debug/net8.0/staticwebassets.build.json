@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eS71qN7TBTlXyrayYjPlHdRtx6Alj9fu0AQAIvfUSmc=",
+  "Source": "FlightMockAPI",
+  "BasePath": "_content/FlightMockAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

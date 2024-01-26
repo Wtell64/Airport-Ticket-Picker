@@ -1,0 +1,6 @@
+@FlightMockAPI_HostAddress = http://localhost:5113
+
+GET {{FlightMockAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
